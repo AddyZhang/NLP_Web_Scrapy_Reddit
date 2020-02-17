@@ -1,5 +1,5 @@
 # NLP_Web_Scrapy_Reddit
-Use PRAW API and NLP techniques to extract key words
+Use PRAW API and NLP techniques to extract key words.
 
 To use this repo, steps as follow:
 1. [Webscraping data(Ipynb)](https://github.com/AddyZhang/NLP_Web_Scrapy_Reddit/blob/master/Reddit_Web_Scraper.ipynb)
